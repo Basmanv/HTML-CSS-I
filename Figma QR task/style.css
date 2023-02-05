@@ -1,0 +1,44 @@
+body{
+    background-color: #d5e1ef;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+
+}
+
+   .div{
+    margin:auto;
+    background-color: #FFFFFF;
+    width: 320px;
+    border-radius: 20px;
+    padding: 16px;
+    height: 497px;
+   }
+
+
+
+img{
+    width: 100%;
+    border-radius: 10px;
+}
+
+#h1id{
+    font-size: 22px;
+    font-family: sans-serif;
+    font-weight: 700;
+    color:#1F314F;
+    text-align: center;
+    width: 288px;
+    padding: 22px 16px 16px 16px;
+
+}
+#pid{
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: #7D889E;
+    text-align: center;
+    padding: 32px;
+    line-height: 19px;
+    padding: 16px 32px 40px 32px;

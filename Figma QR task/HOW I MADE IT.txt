@@ -1,0 +1,14 @@
+<head>
+  <title>Hello world</title>
+</head>
+
+<body>
+  <h1> How I made it </h1>
+</body>
+
+                                      How I made it
+Hello world.This is my first ever html/css project.Been learning html/css for 1.5 weeks and even diving into it.
+I used Reset.css because as we know different browsers got different properties into their codes for styling html elements,so to get rid of 
+deffault properties I set everything to 0 by using reset.css and then started making my own styles for this project using class and id 
+selectors.This is my first figma project.I hope you like this.
+Thanks for your attention.
